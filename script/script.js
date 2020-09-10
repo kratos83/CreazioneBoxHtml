@@ -1,3 +1,5 @@
+//Script realizzato da Angelo Scarnà
+//Rilasciato sotto licenza LGPLv2
 function testoBox() {
   var valoreImg = document.getElementById("textImmagine").value;
   if(valoreImg == "")

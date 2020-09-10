@@ -7,7 +7,7 @@ all'interno di siti web preparati con "Porte aperte sul web".
 
 ------------------------------------------------------------------------
 
-(C) 2020. Angelo Scarnà
+(C) 2020. Angelo Scarnà. Rilasciato sotto licenza LGPLv2.
 
 ------------------------------------------------------------------------
 
