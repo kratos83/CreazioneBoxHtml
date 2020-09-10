@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head></head>
+<title>Programma</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<script type="text/javascript" src="script/script.js"></script>
+<center><table class="tabella" ><tr><td>
+<center><p class="label">Inserisci link immagine: <input class="lineEdit" type="text" id="textImmagine" value="" size="50"></p></center>
+<center><p class="label">Inserisci link pdf(se occorre): <input class="lineEdit" type="text" id="textPdf" value="" size="50"></p></center>
+
+<center><p class="label">Clicca il bottone per poter prepare il testo da inserire nel sito</p></center>
+
+<center><button type="button" onclick="testoBox()"><span style="float:left;width:20px;height:20px"><img src="images/edit.svg" width="20" height="20"></span>Crea testo box</button>
+<button type="button" onclick="cancellaTesto()"><span style="float:left;width:20px;height:20px"><img src="images/delete.png" width="20" height="20"></span>Cancella tutto</button></center>
+
+<center><p class="label">Visualizza il testo da inserire sul sito: </p><textarea id="textarea" class="TextArea" rows="10" cols="70" readonly></textarea></center>
+<br><br>
+<center><button type="button" onclick="copiaTesto()"><span style="float:left;width:20px;height:20px"><img src="images/copy.svg" width="20" height="20"></span>Copia testo</button></center>
+
+<center><p class="label" align="center" id="testoAnteprima">Anteprima:<p class="label"></center>
+<center><p class="label" id="anteprima"><p class="label"></center>
+</tr></td></table></center>
+
+
+</body>
+</html>
