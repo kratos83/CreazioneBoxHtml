@@ -1,7 +1,7 @@
 CreazioneBoxHtml 0.1
 
 ------------------------------------------------------------------------
-Questo programma prepara il codice html per inserire i box personalizzati
+Questo programma prepara il codice html per inserire box personalizzati
 
 all'interno di siti web preparati con "Porte aperte sul web".
 
